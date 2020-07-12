@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+![hello there](https://media.giphy.com/media/KOVlHmbBA09XO/giphy.gif)
+
+# Thank you for taking your time to come here!
+
+My name is Bartosz Kwiatek, I've decided to become a front end developer some time ago and currently I am looking for first job on that position.
+
+For now, my preferred solution is React. It felt more comfortable for me as a beginner, and I spent more time with it. 
+Lately I am focusing more on Angular, since I want to learn both at similar level before decide which way to go.
 
 <!--
 **kwiaciu/kwiaciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
