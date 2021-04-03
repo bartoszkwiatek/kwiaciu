@@ -3,9 +3,8 @@
 
 # Thank you for taking your time to come here!
 
-My name is Bartosz Kwiatek, I've decided to become a front end developer some time ago and currently I am looking for first job.
-
-For now, my preferred solution is React. Probably beacuse it felt more comfortable for me as a beginner and I spent more time with it. But lately I am focusing more on Angular, since I want to learn both at similar level before deciding which way to go.
+My name is Bartosz Kwiatek.
+I've become intersted in frontend some time ago. Right now my preffered library is React, but I am always eager to learn something new. Until now I focused on doing personal projects and currently I am looking for first professional experience.
 
 <!--
 **kwiaciu/kwiaciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
