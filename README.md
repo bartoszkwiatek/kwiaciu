@@ -4,7 +4,7 @@
 # Thank you for taking your time to come here!
 
 My name is Bartosz Kwiatek.
-I've become intersted in frontend some time ago. Right now my preffered library is React, but I am always eager to learn something new. Until now I focused on doing personal projects and currently I am looking for first professional experience.
+I've become intersted in frontend some time ago. Right now my prefered library is React, but I am always eager to learn something new. Until now I focused on doing personal projects and currently I am looking for first professional experience.
 
 <!--
 **kwiaciu/kwiaciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
